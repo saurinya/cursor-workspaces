@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../trading-view"
+		},
+		{
+			"path": "../apymachine.com"
 		}
 	],
 	"settings": {}
